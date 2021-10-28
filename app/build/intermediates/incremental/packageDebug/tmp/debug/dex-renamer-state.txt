@@ -1,0 +1,4 @@
+#Mon Oct 25 20:15:14 ICT 2021
+base.0=E\:\\AndroidStudioProjects\\BukuKas-master\\BukuKas-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
